@@ -1,0 +1,31 @@
+[
+  {
+    "lang": "en",
+    "user_input": "I have a headache",
+    "clarifying_questions": [
+      "How long have you had the headache?",
+      "Is it a sharp or dull pain?",
+      "Do you also have nausea or vision problems?"
+    ]
+  },
+  {
+    "lang": "hi",
+    "user_input": "मुझे बुखार है",
+    "translated_input": "I have a fever",
+    "clarifying_questions": [
+      "बुखार कितने समय से है?",
+      "क्या आपने तापमान मापा है?",
+      "क्या आपको खांसी या ठंड लग रही है?"
+    ]
+  },
+  {
+    "lang": "es",
+    "user_input": "Me duele el estómago",
+    "translated_input": "My stomach hurts",
+    "clarifying_questions": [
+      "¿Dónde exactamente sientes el dolor?",
+      "¿Desde cuándo te duele?",
+      "¿Tienes náuseas o fiebre?"
+    ]
+  }
+]
